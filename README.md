@@ -18,3 +18,8 @@
 - 📊 **Interactive BPMN Canvas**: Built on top of `bpmn-js`, allowing real-time diagram preview, panning, zooming, and direct SVG export.
 - 🔌 **Model Context Protocol (MCP) Ready**: Built-in MCP server architecture for seamless integration with agentic IDEs, enterprise RAG pipelines, and external AI workflows.
 - 📦 **Zero-Config Setup**: Includes an idempotent, fully automated `setup.sh` script that handles system dependencies, Node.js (
+
+
+| AI Chat Prompt Interface | Rendered BPMN 2.0 Canvas |
+| :---: | :---: |
+| ![Chat Interface](./ChatBPMN-1.png) | ![Rendered Canvas](./ChatBPMN-2.png) |
