@@ -16,8 +16,11 @@
 - ⚡ **Automated Geometric Layout**: Integrated with `bpmn-auto-layout`, completely eliminating the need for LLMs to hallucinate complex Diagram Interchange (DI) bounding boxes or waypoint coordinates.
 - 🎨 **Hydration-Safe Syntax Highlighting**: Features a custom, lightweight XML syntax highlighter that provides beautiful, colored XML code blocks in the chat stream without breaking AST parsers or diagram rendering.
 - 📊 **Interactive BPMN Canvas**: Built on top of `bpmn-js`, allowing real-time diagram preview, panning, zooming, and direct SVG export.
-- 🔌 **Model Context Protocol (MCP) Ready**: Built-in MCP server architecture for seamless integration with agentic IDEs, enterprise RAG pipelines, and external AI workflows.
-- 📦 **Zero-Config Setup**: Includes an idempotent, fully automated `setup.sh` script that handles system dependencies, Node.js (
+- 📦 **Zero-Config Setup**: Includes an idempotent, fully automated `setup.sh` script that handles system dependencies, Node.js 
+
+## ✨ Future Features
+- 🔌 **Model Context Protocol (MCP & WebMCP) Ready**: Built-in MCP server architecture for seamless integration with agentic IDEs, enterprise RAG pipelines, and external AI workflows.
+- 🧠 **Human-in-the-Loop Collaboration**: Allowing end user to interactively modify/update BPMN diagrams and store in Retrieval Augmented Generation embeddings for subsequent execution and use.
 
 
 | AI Chat Prompt Interface | Rendered BPMN 2.0 Canvas |
